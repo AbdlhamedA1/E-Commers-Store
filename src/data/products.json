@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "name": "أحمر شفاه مات مخملي - روز وردي",
+    "category": "مكياج",
+    "price": 160,
+    "oldPrice": 210,
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599732497330-d3a042e47262?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "أحمر شفاه بقوام مخملي يدوم حتى 12 ساعة، يمنح شفتيكِ ترطيباً فورياً ولوناً غنياً ثابتاً غير جاف مع لمسة مطفية أنيقة وجذابة.",
+    "isNew": true,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewsCount": 42
+  },
+  {
+    "id": 2,
+    "name": "سيروم الهيالورونيك وفيتامين C للنضارة",
+    "category": "عناية بالبشرة",
+    "price": 280,
+    "oldPrice": 350,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1608248597359-5975053229b1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "سيروم مزدوج المفعول يعيد للبشرة شبابها وإشراقتها الطبيعية، يحارب الخطوط الدقيقة ويوحد لون البشرة ويمنحها ترطيباً عميقاً طوال اليوم.",
+    "isNew": true,
+    "isBestSeller": true,
+    "rating": 5.0,
+    "reviewsCount": 58
+  },
+  {
+    "id": 3,
+    "name": "كريم مرطب يومي للبشرة الحساسة والمختلطة",
+    "category": "عناية بالبشرة",
+    "price": 220,
+    "oldPrice": null,
+    "stock": 3,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "تركيبة خفيفة وسريعة الامتصاص بخلاصة السيراميد ومياه الورد، تحمي حاجز البشرة وترطبها بدون ترك أي أثر دهني مزعج.",
+    "isNew": false,
+    "isBestSeller": true,
+    "rating": 4.8,
+    "reviewsCount": 35
+  },
+  {
+    "id": 4,
+    "name": "عطر زهري فاخر - مسك الفانيليا والياسمين",
+    "category": "عطور",
+    "price": 450,
+    "oldPrice": 550,
+    "stock": 6,
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "عبير أنثوي ساحر يجمع بين نغمات المسك الأبيض وزهرة الياسمين ولمسات دافئة من فانيليا مدغشقر، لثبات يدوم طويلاً وأثر لا يُنسى.",
+    "isNew": true,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewsCount": 27
+  },
+  {
+    "id": 5,
+    "name": "ماسكارا تكثيف وتطويل الرموش فوليوم بلس",
+    "category": "مكياج",
+    "price": 140,
+    "oldPrice": 180,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1631730486784-5456119f69ae?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1631730486784-5456119f69ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "فرشاة سيليكون مرنة تصل لأدق الرموش، تمنحكِ كثافة ثلاثية الأبعاد وطولاً استثنائياً بدون تكتل ومقاومة للماء والرطوبة.",
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.7,
+    "reviewsCount": 19
+  },
+  {
+    "id": 6,
+    "name": "زيت الأرجان المغربي المركز لعلاج تقصف الشعر",
+    "category": "عناية بالشعر",
+    "price": 260,
+    "oldPrice": 320,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1608248597359-5975053229b1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608248597359-5975053229b1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "زيت طبيعي 100% غني بالأحماض الدهنية وفيتامين E، يغذي أطراف الشعر ويقلل الهيشان ويعيد اللمعان والنعومة لشعركِ في دقائق.",
+    "isNew": false,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewsCount": 64
+  },
+  {
+    "id": 7,
+    "name": "مجموعة فراشي مكياج احترافية بريميوم (12 قطعة)",
+    "category": "أدوات شخصية",
+    "price": 310,
+    "oldPrice": 390,
+    "stock": 4,
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "شعيرات صناعية فائقة النعومة ولطيفة على البشرة، تشمل جميع فرش الوجه والعيون الأساسية وتأتي في حقيبة أنيقة من الجلد الوردي.",
+    "isNew": true,
+    "isBestSeller": false,
+    "rating": 4.8,
+    "reviewsCount": 31
+  },
+  {
+    "id": 8,
+    "name": "سلسلة رقبة ناعمة مطفية مطلية روز جولد",
+    "category": "إكسسوارات",
+    "price": 190,
+    "oldPrice": 240,
+    "stock": 0,
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "تصميم أنثوي رقيق بلمسة الروز جولد الساحرة ودلاية فراشة كريستالية براقة، مضادة للصدأ ومناسبة للاستخدام اليومي والمناسبات.",
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.6,
+    "reviewsCount": 14
+  },
+  {
+    "id": 9,
+    "name": "باليت آيشادو ظلال العيون الوردية (18 لون)",
+    "category": "مكياج",
+    "price": 340,
+    "oldPrice": 420,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "تشكيلة ساحرة من الألوان المطفية واللامعة والبرّاقة بدرجات الوردي والنيود والبرونز، تركيبة عالية الصبغية وسهلة الدمج.",
+    "isNew": true,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewsCount": 51
+  },
+  {
+    "id": 10,
+    "name": "غسول رغوي منظف للبشرة بخلاصة الشاي الأخضر",
+    "category": "عناية بالبشرة",
+    "price": 175,
+    "oldPrice": null,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1556228722-d0b5d0124317?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556228722-d0b5d0124317?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "ينظف المسام بعمق ويزيل الشوائب والزيوت الزائدة بلطف دون تجفيف البشرة، يترك وجهكِ منتعشاً ونقياً بملمس حريري.",
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.7,
+    "reviewsCount": 22
+  },
+  {
+    "id": 11,
+    "name": "بدي ميست معطر الجسم برائحة زهر الكرز والبيوني",
+    "category": "عطور",
+    "price": 195,
+    "oldPrice": 250,
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "رذاذ عطري منعش وخفيف غني بماء الصبار المرطب، يمنحكِ إحساساً بالنظافة والأنوثة يدوم طوال ساعات الصباح والمساء.",
+    "isNew": false,
+    "isBestSeller": true,
+    "rating": 4.8,
+    "reviewsCount": 39
+  },
+  {
+    "id": 12,
+    "name": "حلق لؤلؤ طبيعي عصري مطلي بالذهب الوردي",
+    "category": "إكسسوارات",
+    "price": 160,
+    "oldPrice": 190,
+    "stock": 7,
+    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "أقراط كلاسيكية عصرية تجمع بين بريق اللؤلؤ ودفء الذهب الوردي، خفيفة الوزن ومريحة في الارتداء طوال اليوم.",
+    "isNew": true,
+    "isBestSeller": false,
+    "rating": 4.7,
+    "reviewsCount": 16
+  },
+  {
+    "id": 13,
+    "name": "ماسك الشعر بالكيراتين وزبدة الشيا للترميم",
+    "category": "عناية بالشعر",
+    "price": 240,
+    "oldPrice": 290,
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "حمام كريم مكثف يعالج الشعر التالف من الصبغات والحرارة، يمنحه مرونة وقوة ونعومة فائقة من أول استخدام.",
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.8,
+    "reviewsCount": 28
+  },
+  {
+    "id": 14,
+    "name": "أداة تدليك الوجه بحجر اليشم الوردي (Gua Sha)",
+    "category": "أدوات شخصية",
+    "price": 130,
+    "oldPrice": 170,
+    "stock": 2,
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "حجر كوارتز وردي أصلي لتدليك وتنشيط الدورة الدموية في الوجه والرقبة، يساعد على تقليل الانتفاخ ونحت الفك وتصريف السوائل.",
+    "isNew": false,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewsCount": 47
+  },
+  {
+    "id": 15,
+    "name": "هايلايتر ومورد خدود سائل ديوي بينك",
+    "category": "مكياج",
+    "price": 185,
+    "oldPrice": null,
+    "stock": 16,
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "مورد خدود وشفاه طبيعي بلمعة نضرة ومائية، يندمج بسهولة بالغة ويعطي إشراقة شبابية وردية تدوم طوال النهار.",
+    "isNew": true,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewsCount": 53
+  },
+  {
+    "id": 16,
+    "name": "شامبو خالي من السلفات والبارابين لتساقط الشعر",
+    "category": "عناية بالشعر",
+    "price": 210,
+    "oldPrice": 260,
+    "stock": 13,
+    "image": "https://images.unsplash.com/photo-1585232351009-aa87416fca90?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585232351009-aa87416fca90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "ينظف فروة الرأس بلطف مع تقوية بصيلات الشعر بخلاصة البيوتين والكافيين، مناسب للشعر المعالج بالبروتين والكيراتين.",
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.7,
+    "reviewsCount": 21
+  },
+  {
+    "id": 17,
+    "name": "مرآة ليد مكبرة قابلة للشحن للمكياج",
+    "category": "أدوات شخصية",
+    "price": 290,
+    "oldPrice": 360,
+    "stock": 0,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "مرآة تجميل ذكية بإضاءة LED ثلاثية المستويات وتحكم باللمس، توفر إضاءة مطابقة لضوء النهار الطبيعي لوضع المكياج باحترافية.",
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.5,
+    "reviewsCount": 11
+  },
+  {
+    "id": 18,
+    "name": "إسفنجة مكياج بيوتي بلندر فائقة النعومة (3 حبات)",
+    "category": "أدوات شخصية",
+    "price": 95,
+    "oldPrice": 130,
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "إسفنجات دمج خالية من اللاتكس، تتمدد عند البلل وتمنحكِ توزيعاً متساوياً لكريم الأساس والكونسيلر بدون امتصاص زائد للمنتج.",
+    "isNew": true,
+    "isBestSeller": false,
+    "rating": 4.8,
+    "reviewsCount": 34
+  },
+  {
+    "id": 19,
+    "name": "واقي شمس سائل SPF 50+ غير دهني مائي",
+    "category": "عناية بالبشرة",
+    "price": 270,
+    "oldPrice": 330,
+    "stock": 19,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "حماية كاملة واسعة النطاق من الأشعة فوق البنفسجية UVA/UVB، خالي من العلامات البيضاء ومقاوم للعرق والماء وسريع الجفاف.",
+    "isNew": true,
+    "isBestSeller": true,
+    "rating": 4.9,
+    "reviewsCount": 49
+  },
+  {
+    "id": 20,
+    "name": "خاتم توينز رقيق مطعم بفصوص زيركون براقة",
+    "category": "إكسسوارات",
+    "price": 145,
+    "oldPrice": 180,
+    "stock": 4,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "خاتم مزدوج أنيق بتصميم قابل للتعديل ليناسب جميع مقاسات الأصابع، لمعة كريستالية لافتة تناسب إطلالتكِ في أي وقت.",
+    "isNew": false,
+    "isBestSeller": false,
+    "rating": 4.7,
+    "reviewsCount": 17
+  }
+]
